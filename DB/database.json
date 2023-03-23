@@ -1,0 +1,51 @@
+{
+  "fitxers": [
+    {
+      "nom": "2023-03-22",
+      "id": "19fU08o4ynsYSFHAewhJBQA2NN7Rxt-w_JiatOPNN2xY",
+      "parent": "1eZyMNwRDirl6QPniWRAmJ9hK7jqK0bb4"
+    },
+    {
+      "nom": "2023-03-22",
+      "id": "1ormdsy44Fe6p2bSQCKyInWW63KBztQkD5TFoPiM9l8Y",
+      "parent": "1LzSaO4JYcmZ0ec0OUoc65XSQaUmRKbiN"
+    },
+    {
+      "nom": "2023-03-22",
+      "id": "1PT24AAKTmby-VuhQGcJC8LvGLTOsiy8PvHwXWM0-slE",
+      "parent": "1R_lY0G_B0sknQ7xJa7ll9QaMtpAw7n-V"
+    }
+  ],
+  "carpetes": [
+    {
+      "nom": "LogsDiscord",
+      "id": "1P1XjBosyNLT1Ri9VdhM2fhAo9HIb4jKe",
+      "idDC": "root"
+    },
+    {
+      "nom": "Baby's server",
+      "id": "1zufrMqm_0OarpcCnVqbktTGu1iPSZywL",
+      "idDC": "1084844871866646680"
+    },
+    {
+      "nom": "general",
+      "id": "1eZyMNwRDirl6QPniWRAmJ9hK7jqK0bb4",
+      "idDC": "1084844872856510527"
+    },
+    {
+      "nom": "patata",
+      "id": "1LzSaO4JYcmZ0ec0OUoc65XSQaUmRKbiN",
+      "idDC": "1087393994440454154"
+    },
+    {
+      "nom": "Classroom",
+      "id": "17gyIKNKto0cmIVhTMVjF0spHPBUfJxxi",
+      "idDC": "1084848955340378122"
+    },
+    {
+      "nom": "general",
+      "id": "1R_lY0G_B0sknQ7xJa7ll9QaMtpAw7n-V",
+      "idDC": "1084848956120510587"
+    }
+  ]
+}

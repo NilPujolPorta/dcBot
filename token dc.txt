@@ -1,0 +1,5 @@
+MTA4NDg1MTU4NjMzNDk4MjIzNA.G2GhRC.h8o3T2CJlEMZZBVYaNVKcjfovq9g_0BYZqm3N4
+
+2148617216
+
+https://discord.com/api/oauth2/authorize?client_id=1084851586334982234&permissions=2148617216&scope=bot
